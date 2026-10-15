@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.1 (build 4) — 2026-10-15
+
+- When rest is over the phone buzzes and plays the rest sound twice at full volume.
+- Camera workout: one "How to do it" button (3D movement and camera setup together).
+
 ## 1.2.0 (build 3) — 2026-10-15
 
 - A simpler home screen: four places (Train, Food, The Veil, Ranking) instead of ten tiles.

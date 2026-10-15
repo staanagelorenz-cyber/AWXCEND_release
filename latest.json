@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.2",
-  "versionCode": 5,
+  "versionName": "1.2.3",
+  "versionCode": 6,
   "released": "2026-10-15",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk",
-  "notes": "Add another food on Meal plan and Pantry; photos on pantry foods."
+  "notes": "With no signal, the map message fades so it doesn’t cover the map."
 }

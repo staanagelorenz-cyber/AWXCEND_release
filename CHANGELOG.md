@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.3 (build 6) — 2026-10-15
+
+- Run / Walk / Ride: the no-signal message fades after a few seconds; tap "No signal" to read it again.
+
 ## 1.2.2 (build 5) — 2026-10-15
 
 - Meal plan and Pantry: Add another food, then save them all at once.

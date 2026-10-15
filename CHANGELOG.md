@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.4 (build 7) — 2026-10-16
+
+- Run / Walk / Ride says before you start that it works with no signal.
+- Sign-up: no ads, ever; download or delete your data any time in Settings.
+
 ## 1.2.3 (build 6) — 2026-10-15
 
 - Run / Walk / Ride: the no-signal message fades after a few seconds; tap "No signal" to read it again.

@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 6,
-  "released": "2026-10-15",
+  "versionName": "1.2.4",
+  "versionCode": 7,
+  "released": "2026-10-16",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk",
-  "notes": "With no signal, the map message fades so it doesn’t cover the map."
+  "notes": "Runs say up front that they work with no signal; a plain privacy line in sign-up."
 }

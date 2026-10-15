@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.2 (build 5) — 2026-10-15
+
+- Meal plan and Pantry: Add another food, then save them all at once.
+- Pantry foods can have a photo, seen by whoever you share your pantry with.
+
 ## 1.2.1 (build 4) — 2026-10-15
 
 - When rest is over the phone buzzes and plays the rest sound twice at full volume.

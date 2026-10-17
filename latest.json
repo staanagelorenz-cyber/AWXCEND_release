@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.6",
-  "versionCode": 9,
+  "versionName": "1.2.7",
+  "versionCode": 10,
   "released": "2026-10-17",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk",
-  "notes": "Trailblaze: more accurate GPS with calories, climb and km splits; AI Buddy; reply to and react to messages; online dot; Name Change Card."
+  "notes": "See how long ago friends were last active; reply to and react to messages; Trailblaze GPS; AI Buddy; updated Privacy Notice and Terms."
 }

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.7 (build 10) — 2026-10-17
+
+- Offline friends show how long ago they were last active ("Active 2 h ago"); same switch as the online dot.
+- Updated Privacy Notice and Terms (online status, replies and reactions, 30-day username rule, AI Buddy).
+
 ## 1.2.6 (build 9) — 2026-10-17
 
 - Run / Walk / Ride is now Trailblaze: more accurate GPS, plus calories burned, climb and kilometre splits.

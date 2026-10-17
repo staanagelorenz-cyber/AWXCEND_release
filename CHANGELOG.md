@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.8 (build 11) — 2026-10-17
+
+- Food log: "serving" unit — how many servings × serving size in grams.
+
 ## 1.2.7 (build 10) — 2026-10-17
 
 - Offline friends show how long ago they were last active ("Active 2 h ago"); same switch as the online dot.

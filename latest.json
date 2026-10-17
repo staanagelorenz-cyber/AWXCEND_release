@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.4",
-  "versionCode": 7,
-  "released": "2026-10-16",
+  "versionName": "1.2.5",
+  "versionCode": 8,
+  "released": "2026-10-17",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk",
-  "notes": "Runs say up front that they work with no signal; a plain privacy line in sign-up."
+  "notes": "Opens fast with no signal; ages 13+; updated Privacy Notice and Terms."
 }

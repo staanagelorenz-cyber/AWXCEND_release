@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.5 (build 8) — 2026-10-17
+
+- Opens in about a second with no signal (it used to wait up to 30 s to renew the sign-in).
+- Ages 13 and over; under 18 needs a parent or guardian. Body composition is 18+.
+- Updated Privacy Notice and Terms (younger-player summary, cookies, crash reports).
+
 ## 1.2.4 (build 7) — 2026-10-16
 
 - Run / Walk / Ride says before you start that it works with no signal.

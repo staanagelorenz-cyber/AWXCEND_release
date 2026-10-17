@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.6 (build 9) — 2026-10-17
+
+- Run / Walk / Ride is now Trailblaze: more accurate GPS, plus calories burned, climb and kilometre splits.
+- The Veil is now AI Buddy.
+- Reply to a single chat message or DM, and react with laugh, sad, wow, mad, care or any emoji on your phone.
+- Green online dot for friends (turn it off in Settings → Privacy & data).
+- Usernames change once every 30 days; the Name Change Card (300 gold, Shop) skips the wait.
+
 ## 1.2.5 (build 8) — 2026-10-17
 
 - Opens in about a second with no signal (it used to wait up to 30 s to renew the sign-in).

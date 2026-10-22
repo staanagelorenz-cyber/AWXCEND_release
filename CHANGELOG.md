@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.2 (build 18) — 2026-10-23
+
+- Trailblaze measures climb and descent with the phone's air-pressure sensor when it has one: much steadier than GPS height, and it works with no signal. Phones without the sensor keep using GPS height.
+- Shared route images carry two AWXCEND marks instead of three.
+
 ## 1.4.1 (build 17) — 2026-10-22
 
 - Smaller app: 92 MB to 58.5 MB, same look.

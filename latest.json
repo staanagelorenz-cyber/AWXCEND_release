@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.0",
-  "versionCode": 16,
+  "versionName": "1.4.1",
+  "versionCode": 17,
   "released": "2026-10-22",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Pick which routine goes on which day, ask or send routines, macros and plans in chats, and coaching (verified coaches and community helpers)."
+  "notes": "Smaller app (58.5 MB), Lite mode for slower phones, faster dashboard, \"ready to go heavier\" suggestions and a 2D recovery map."
 }

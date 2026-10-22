@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.1 (build 17) — 2026-10-22
+
+- Smaller app: 92 MB to 58.5 MB, same look.
+- Lite mode: slower phones switch to a lighter look by themselves so everything stays smooth (Settings > Performance: Auto, Full or Lite).
+- Dashboard and exercise pictures load from your phone first: instant, and they work with no signal.
+- Ready to go heavier: the same weight 3 sessions in a row with your reps holding? Log Workout suggests +2.5 kg, and Body lists every lift that is ready.
+- Recovery map: switch between 3D and a simple 2D front-and-back view.
+
 ## 1.4.0 (build 16) — 2026-10-22
 
 - Monthly plan from your routines: choose which routine goes on which day (for example Leg day on Monday); it repeats every week.

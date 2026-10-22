@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0 (build 16) — 2026-10-22
+
+- Monthly plan from your routines: choose which routine goes on which day (for example Leg day on Monday); it repeats every week.
+- In a chat with a friend, tap + to ask for, or send, a routine, macro targets or a monthly plan. They add it with one tap.
+- Friends → Coaching: find a coach, or switch on "I coach". Verified coaches had their certificates reviewed; community helpers are friends who are not verified. Players under 18 can only be coached by a verified coach with a guardian's OK. No payments in AWXCEND.
+
 ## 1.3.1 (build 15) — 2026-10-22
 
 - Friends: "People you can add" list, so you can find players without searching a name.

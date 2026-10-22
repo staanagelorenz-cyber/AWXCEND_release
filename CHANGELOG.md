@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.1 (build 15) — 2026-10-22
+
+- Friends: "People you can add" list, so you can find players without searching a name.
+
 ## 1.3.0 (build 14) — 2026-10-22
 
 - Planned rest days keep your streak (up to two in a row); optional cardio or meditation on a rest day.

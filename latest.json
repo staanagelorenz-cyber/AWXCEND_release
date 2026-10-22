@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.8",
-  "versionCode": 11,
-  "released": "2026-10-17",
-  "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk",
-  "notes": "Log food by the serving; see when friends were last active; replies and emoji reactions; Trailblaze GPS; AI Buddy."
+  "versionName": "1.2.9",
+  "versionCode": 12,
+  "released": "2026-10-22",
+  "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
+  "notes": "Help inside every screen, with examples of what to type; Dungeon gate alerts on your phone."
 }

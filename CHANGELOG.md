@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.9 (build 12) — 2026-10-22
+
+- Guides inside Food, Log Workout, Camera Workout, Trailblaze and Plans, with examples; a ? button replays them.
+- Phone notification when a Dungeon gate opens (can be turned off in Settings).
+- Downloads now come from GitHub Releases.
+
 ## 1.2.8 (build 11) — 2026-10-17
 
 - Food log: "serving" unit — how many servings × serving size in grams.

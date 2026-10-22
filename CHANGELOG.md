@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.10 (build 13) — 2026-10-22
+
+- Guides on Pantry, Budget, Meal plan, AI Buddy, Missions, Dungeons and Shop; a ? button replays each.
+- A shorter first-time tour.
+
 ## 1.2.9 (build 12) — 2026-10-22
 
 - Guides inside Food, Log Workout, Camera Workout, Trailblaze and Plans, with examples; a ? button replays them.

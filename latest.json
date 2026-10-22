@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.9",
-  "versionCode": 12,
+  "versionName": "1.2.10",
+  "versionCode": 13,
   "released": "2026-10-22",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Help inside every screen, with examples of what to type; Dungeon gate alerts on your phone."
+  "notes": "Help on every screen: Pantry, Budget, Meal plan, AI Buddy, Missions, Dungeons and Shop; a shorter first tour."
 }

@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.3.0 (build 14) — 2026-10-22
+
+- Planned rest days keep your streak (up to two in a row); optional cardio or meditation on a rest day.
+- New Meditation (Train → Meditation): timed session, Do Not Disturb, leaving the app over 3 s ends it; 30 XP-earning minutes a day.
+- Trailblaze keeps recording while you use other screens ("Back to your run").
+- Trailblaze counts real steps with the phone's step sensor, checked against distance; standing still adds no GPS distance.
+- Rest timer alerts you with its sound even with the app closed or the screen off.
+- Fairer XP: impossible speeds and more than 6 hours of timed training a day are refused.
+
 ## 1.2.10 (build 13) — 2026-10-22
 
 - Guides on Pantry, Budget, Meal plan, AI Buddy, Missions, Dungeons and Shop; a ? button replays each.

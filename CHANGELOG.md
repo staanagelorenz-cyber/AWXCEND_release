@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.6 (build 22) — 2026-10-23
+
+- Players under 18 ask a parent or guardian to confirm by email before they can chat, message, post or add friends. Training, meals and plans work right away.
+- The Privacy Notice and Terms now name the operator and the Data Protection Officer, explain your rights wherever you live, and say we will keep adding features.
+- Downloading your data from Settings works again.
+
 ## 1.4.5 (build 21) — 2026-10-23
 
 - Reply to a comment on a Gymunnity post. Your reply quotes theirs, and you can react to or report any comment.

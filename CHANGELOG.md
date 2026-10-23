@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.7 (build 23) — 2026-10-23
+
+- Gymunnity: tap React to react, hold it for all reactions. Save, Edit, Report and Delete are in the ⋯ menu, and comments fit small phones.
+- Domain: your phone vibrates and plays a sound when a player comes near, even with the app closed or the screen off.
+- Your rank emblem sits in a frame in your rank's colour.
+
 ## 1.4.6 (build 22) — 2026-10-23
 
 - Players under 18 ask a parent or guardian to confirm by email before they can chat, message, post or add friends. Training, meals and plans work right away.

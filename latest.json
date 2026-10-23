@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.6",
-  "versionCode": 22,
+  "versionName": "1.4.7",
+  "versionCode": 23,
   "released": "2026-10-23",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Parent confirmation for under-18s and an updated privacy notice."
+  "notes": "Quicker reactions in Gymunnity and a Domain nearby alert."
 }

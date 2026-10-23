@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.7",
-  "versionCode": 23,
+  "versionName": "1.4.8",
+  "versionCode": 24,
   "released": "2026-10-23",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Quicker reactions in Gymunnity and a Domain nearby alert."
+  "notes": "Rank emblem centered."
 }

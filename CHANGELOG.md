@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.8 (build 24) — 2026-10-23
+
+- Your rank emblem now sits in the middle of its frame.
+
 ## 1.4.7 (build 23) — 2026-10-23
 
 - Gymunnity: tap React to react, hold it for all reactions. Save, Edit, Report and Delete are in the ⋯ menu, and comments fit small phones.

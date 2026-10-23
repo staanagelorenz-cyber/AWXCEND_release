@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.2",
-  "versionCode": 18,
+  "versionName": "1.4.3",
+  "versionCode": 19,
   "released": "2026-10-23",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Steadier climb on runs (barometer) and two logo marks on route images."
+  "notes": "A real anatomy 2D recovery map and 54 ranked lifts on the strength leaderboard."
 }

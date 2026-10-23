@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.5 (build 21) — 2026-10-23
+
+- Reply to a comment on a Gymunnity post. Your reply quotes theirs, and you can react to or report any comment.
+- Your rank emblem is now your picture on the dashboard and profile.
+- Every screen has a guide, including Gymunnity, Ranking, Profile, Settings, Recovery and Body, and they explain small features like the Heatmap and Domain. Tap ? to see one again.
+- Tab names no longer run into each other on small phones.
+
 ## 1.4.4 (build 20) — 2026-10-23
 
 - Every rank now has its own emblem, from Bronze to the top tier, with a crest for your training path. You see it when you rank up, on your dashboard and on your profile.

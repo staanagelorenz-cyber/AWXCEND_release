@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.4 (build 20) — 2026-10-23
+
+- Every rank now has its own emblem, from Bronze to the top tier, with a crest for your training path. You see it when you rank up, on your dashboard and on your profile.
+- Reaching level 10, 25, 50, 75 and 100 shows a special milestone frame.
+
 ## 1.4.3 (build 19) — 2026-10-23
 
 - The 2D recovery map now shows the same detailed anatomical body as the 3D one, front and back.

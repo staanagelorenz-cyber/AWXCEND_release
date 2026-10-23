@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.9 (build 25) — 2026-10-23
+
+- Progress photos in Body & progress: daily, weekly or monthly reminders; compare, timeline, same-pose guide and time-lapse. Photos stay on your phone (and Downloads/AWXCEND/Progress), never uploaded.
+- 98 Filipino foods: menudo, afritada, ampalaya with egg, sinigang, kare-kare, silog plates, siomai, halo-halo, taho and more.
+- Download my data saves a readable PDF and the full data file to Downloads/AWXCEND.
+- Louder rest timer alert when the app is closed.
+- Unsend a routine, macro or plan card you sent in a chat.
+
 ## 1.4.8 (build 24) — 2026-10-23
 
 - Your rank emblem now sits in the middle of its frame.

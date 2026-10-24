@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.10 (build 26) — 2026-10-24
+
+- While running a routine or your monthly plan, a book button under the sound button shows how to do the current exercise (pictures, steps, muscles) without stopping your workout.
+- Library updates (React, the 3D body viewer, map and sign-in plugins).
+
 ## 1.4.9 (build 25) — 2026-10-23
 
 - Progress photos in Body & progress: daily, weekly or monthly reminders; compare, timeline, same-pose guide and time-lapse. Photos stay on your phone (and Downloads/AWXCEND/Progress), never uploaded.

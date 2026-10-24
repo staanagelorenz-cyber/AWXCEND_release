@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.9",
-  "versionCode": 25,
-  "released": "2026-10-23",
+  "versionName": "1.4.10",
+  "versionCode": 26,
+  "released": "2026-10-24",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Progress photos, 98 Filipino foods, data download PDF."
+  "notes": "How-to button while running a routine; library updates."
 }

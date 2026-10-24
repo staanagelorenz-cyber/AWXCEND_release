@@ -1,0 +1,2 @@
+- While running a routine or your monthly plan, tap the book button under the sound button to see how to do the current exercise. Your workout keeps going.
+- Library updates (React, 3D body viewer, map and sign-in plugins).

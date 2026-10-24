@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.10",
-  "versionCode": 26,
+  "versionName": "1.4.11",
+  "versionCode": 27,
   "released": "2026-10-24",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "How-to button while running a routine; library updates."
+  "notes": "PvP and duels, Domain challenges, live rest timer."
 }

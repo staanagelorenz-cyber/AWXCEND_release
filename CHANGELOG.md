@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.11 (build 27) — 2026-10-24
+
+- PvP in Quests: find a rival at your level, or invite a friend to a friendly match (camera reps, longest hold, GPS race).
+- Domain challenges (18+): tap a nearby player to send a friend request or a duel, including a race to a finish line on the map. Names are shared only if they accept.
+- Rest timer: live countdown in the notification shade and an alarm-style end sound.
+- Updated privacy notice and terms.
+
 ## 1.4.10 (build 26) — 2026-10-24
 
 - While running a routine or your monthly plan, a book button under the sound button shows how to do the current exercise (pictures, steps, muscles) without stopping your workout.

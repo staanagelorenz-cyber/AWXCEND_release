@@ -1,0 +1,4 @@
+- PvP in Quests: find a rival at your level, or invite a friend to a friendly match.
+- Domain challenges (18+): tap a nearby player to send a friend request or a duel, including a finish-line race.
+- Rest timer: live countdown in the notification shade and an alarm-style end sound.
+- Updated privacy notice and terms.

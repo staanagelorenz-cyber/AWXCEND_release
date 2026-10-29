@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.11",
-  "versionCode": 27,
-  "released": "2026-10-24",
+  "versionName": "1.4.12",
+  "versionCode": 28,
+  "released": "2026-10-30",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "PvP and duels, Domain challenges, live rest timer."
+  "notes": "Smart routes, train together, auto-fill weights, typo-tolerant search."
 }

@@ -1,0 +1,7 @@
+- Auto finish line fixed: real walking routes along streets, paths and parks, any distance from 0.3 to 15 km, with the route drawn on the map.
+- Trailblaze: Suggest a route (loop or out-and-back, any length).
+- Run or train together with a nearby player or a friend: same start, your own pace, no winner.
+- Routines and monthly plans fill in your last weights and tell you when to go heavier.
+- A weight over 500 kg names the exact exercise and set, with a one-tap fix.
+- Typo-tolerant search for foods, exercises, pantry and players.
+- The 1v1 camera panel folds into a slim bar.

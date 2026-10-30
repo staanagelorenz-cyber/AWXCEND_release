@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.13 (build 29) — 2026-10-30
+
+- AWXCEND now speaks Tagalog: pick it on the login screen or in Settings → Language. Every screen, the app tour, the guides and the error help are translated.
+- Fixed: weights filled in from your last session could land on the wrong set. Each set now gets its own.
+- Route image: choose the stats it shows (for example steps only, or distance, calories and climb).
+- Download my data now makes a readable PDF: a summary page, sections by topic, tables for workouts and meals, plain dates.
+- Easier with screen readers and voice control on the home screen.
+
 ## 1.4.12 (build 28) — 2026-10-30
 
 - Auto finish line fixed: real walking routes along streets, paths and parks, any distance from 0.3 to 15 km, with the route drawn on the map.

@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.12",
-  "versionCode": 28,
+  "versionName": "1.4.13",
+  "versionCode": 29,
   "released": "2026-10-30",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Smart routes, train together, auto-fill weights, typo-tolerant search."
+  "notes": "Tagalog, route image stats, readable data PDF, set weights fix."
 }

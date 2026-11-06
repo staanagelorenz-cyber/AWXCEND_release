@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.15",
-  "versionCode": 31,
+  "versionName": "1.4.16",
+  "versionCode": 32,
   "released": "2026-11-06",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Verified player live check, check marks beside names, verified-only options."
+  "notes": "Download by period and kind, Day 1 welcome with progress photo, fuller Profile guide, bot check."
 }

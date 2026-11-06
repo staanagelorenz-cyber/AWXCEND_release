@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.14 (build 30) — 2026-11-06
+
+- The permission questions now come after you finish setting up your account, not the moment you open the app. You choose Allow or Don’t allow for each one (notifications, camera, location), and you can skip them all.
+- A sign-in link for a different account than the one on your phone now asks before it switches you.
+- Logged workouts have sensible daily limits, so the leaderboard stays fair.
+- Under-18 accounts keep their parent or guardian check: the age can’t be raised to 18 until a parent or guardian has agreed.
+- Hidden-player lists, the AI helper and food search are fairer when many people use them at once.
+
 ## 1.4.13 (build 29) — 2026-10-30
 
 - AWXCEND now speaks Tagalog: pick it on the login screen or in Settings → Language. Every screen, the app tour, the guides and the error help are translated.

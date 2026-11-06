@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.14",
-  "versionCode": 30,
+  "versionName": "1.4.15",
+  "versionCode": 31,
   "released": "2026-11-06",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Permissions after setup, safer sign-in links, fair workout limits, under-18 protections."
+  "notes": "Verified player live check, check marks beside names, verified-only options."
 }

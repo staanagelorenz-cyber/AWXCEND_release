@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.15 (build 31) — 2026-11-06
+
+- Get verified from your profile with a short live camera check: follow 3 moves. It runs on your phone and nothing is recorded or uploaded.
+- Verified players get a check mark beside their name everywhere, and 150 gold once.
+- Verified coaches now show their mark beside their name too, not only on their profile.
+- New privacy option: only verified players can send you friend requests and challenges. In Arena, verified players can choose verified opponents only.
+
 ## 1.4.14 (build 30) — 2026-11-06
 
 - The permission questions now come after you finish setting up your account, not the moment you open the app. You choose Allow or Don’t allow for each one (notifications, camera, location), and you can skip them all.

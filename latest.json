@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.16",
-  "versionCode": 32,
-  "released": "2026-11-06",
+  "versionName": "1.4.17",
+  "versionCode": 33,
+  "released": "2026-11-07",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Download by period and kind, Day 1 welcome with progress photo, fuller Profile guide, bot check."
+  "notes": "Sign-up fix: finishing set-up no longer gets stuck; clearer security check with Retry."
 }

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.17 (build 33) — 2026-11-07
+
+- Fixed: finishing account set-up could get stuck with a grey button. It no longer waits for the security check, which it never needed.
+- If the security check fails or is blocked (for example by an ad blocker or private DNS), it now says so and offers Retry, instead of leaving the button grey.
+- Error reports now include which server request failed, so problems can be found and fixed faster.
+
 ## 1.4.16 (build 32) — 2026-11-06
 
 - Download my data now lets you choose a period (last 7 days up to all time, or from a date) and what to include, for example food only or exercise only.

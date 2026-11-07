@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.17",
-  "versionCode": 33,
-  "released": "2026-11-07",
+  "versionName": "1.4.18",
+  "versionCode": 34,
+  "released": "2026-11-08",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Sign-up fix: finishing set-up no longer gets stuck; clearer security check with Retry."
+  "notes": "Add community food posts to your meal plan, meal ingredients, adjustable protein in Food Budget, portrait or landscape route images, staff tags."
 }

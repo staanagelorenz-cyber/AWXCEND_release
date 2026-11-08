@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.19 (build 35) — 2026-11-08
+
+- A cleaner, faster foundation for Routines, Log Meal and Trailblaze. Everything works the same.
+- Updated app components (Android and the 3D exercise viewer) to their latest fixes.
+
 ## 1.4.18 (build 34) — 2026-11-08
 
 - Food posts in Gymunnity now have Add to meal plan: pick the day, the meal and how much. The nutrition and ingredients come with it, and your plan keeps its own copy.

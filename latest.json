@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.18",
-  "versionCode": 34,
+  "versionName": "1.4.19",
+  "versionCode": 35,
   "released": "2026-11-08",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Add community food posts to your meal plan, meal ingredients, adjustable protein in Food Budget, portrait or landscape route images, staff tags."
+  "notes": "Under-the-hood update: cleaner foundation, updated Android and 3D components."
 }

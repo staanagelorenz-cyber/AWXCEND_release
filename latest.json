@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.19",
-  "versionCode": 35,
-  "released": "2026-11-08",
+  "versionName": "1.4.20",
+  "versionCode": 36,
+  "released": "2026-11-09",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Under-the-hood update: cleaner foundation, updated Android and 3D components."
+  "notes": "See who reacted on posts, comments, chat and DMs; plan week notes; How-to and chat fixes; more Philippine foods."
 }

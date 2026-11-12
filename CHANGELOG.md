@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.21 (build 37) — 2026-11-12
+
+- Fixed: on phones, Watch the movement during a camera workout now opens the 3D guide on top of the camera. Before, it opened behind it and seemed to do nothing.
+- Fixed: Report a tracking problem during a camera workout on a phone now opens properly too.
+
 ## 1.4.20 (build 36) — 2026-11-09
 
 - See who reacted: tap the people button by the reactions on a comment, chat or DM, or tap a post's reactions, to see each player and their reaction.

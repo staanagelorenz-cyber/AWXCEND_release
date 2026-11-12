@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.20",
-  "versionCode": 36,
-  "released": "2026-11-09",
+  "versionName": "1.4.21",
+  "versionCode": 37,
+  "released": "2026-11-12",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "See who reacted on posts, comments, chat and DMs; plan week notes; How-to and chat fixes; more Philippine foods."
+  "notes": "Camera fix for phones: Watch the movement and Report a tracking problem now open on top of the camera."
 }

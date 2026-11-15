@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.23",
-  "versionCode": 39,
-  "released": "2026-11-15",
+  "versionName": "1.4.24",
+  "versionCode": 40,
+  "released": "2026-11-16",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Home-screen widgets that follow your day, backup trackers for 10 camera exercises, label serving sizes in Log Meal, streak reminders, change password, and updated Privacy Notice and Terms."
+  "notes": "Widgets fit every home screen, backup trackers keep your reps when you switch mid-set, and cleaner icons."
 }

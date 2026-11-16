@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.24",
-  "versionCode": 40,
-  "released": "2026-11-16",
+  "versionName": "1.4.25",
+  "versionCode": 41,
+  "released": "2026-11-17",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Widgets fit every home screen, backup trackers keep your reps when you switch mid-set, and cleaner icons."
+  "notes": "Remove comments on your own posts, moderators can remove reported content with a reason, and stricter staff roles."
 }

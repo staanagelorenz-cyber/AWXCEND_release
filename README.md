@@ -1,6 +1,6 @@
 # AWXCEND for Android
 
-**[Download AWXCEND.apk](https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk)** · version 1.4.25 (build 41)
+**[Download AWXCEND.apk](https://github.com/staanagelorenz-cyber/AWXCEND_release/raw/main/AWXCEND.apk)** · version 1.4.26 (build 42)
 
 AWXCEND is a gamified fitness app: camera-counted workouts, quests, dungeons, food logging and an AI coach. You can also use it in your browser at [awxcend.com](https://awxcend.com).
 

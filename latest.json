@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4.25",
-  "versionCode": 41,
-  "released": "2026-11-17",
+  "versionName": "1.4.26",
+  "versionCode": 42,
+  "released": "2026-11-18",
   "apk": "https://github.com/staanagelorenz-cyber/AWXCEND_release/releases/latest/download/AWXCEND.apk",
-  "notes": "Remove comments on your own posts, moderators can remove reported content with a reason, and stricter staff roles."
+  "notes": "A cinematic System intro, the X logo, new record and streak moments, and many fixes."
 }
